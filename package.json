@@ -1,13 +1,15 @@
 {
-  "name": "cycle-js-firebase",
+  "name": "cycle-js-hack",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
     "cycle-scripts": "2.1.0"
   },
   "dependencies": {
+    "@cycle/collection": "^0.6.0",
     "@cycle/dom": "18.3.0",
     "@cycle/run": "3.3.0",
+    "immutable": "^3.8.2",
     "xstream": "11.0.0"
   },
   "scripts": {
